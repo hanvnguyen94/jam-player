@@ -72,6 +72,36 @@ function chillHop() {
 			id: uuidv4(),
 			active: false,
 		},
+		{
+			name: 'Fade',
+			cover:
+				'https://chillhop.com/wp-content/uploads/2020/07/04d5dd66c33d8fc9137fd7b47f3b3c3a8e571761-1024x1024.jpg',
+			artist: 'Knowmadic',
+			audio: 'https://mp3.chillhop.com/serve.php/?mp3=1733',
+			color: ['#B64E65', '#393B61'],
+			id: uuidv4(),
+			active: false,
+		},
+		{
+			name: 'Fade',
+			cover:
+				'https://chillhop.com/wp-content/uploads/2020/07/04d5dd66c33d8fc9137fd7b47f3b3c3a8e571761-1024x1024.jpg',
+			artist: 'Knowmadic',
+			audio: 'https://mp3.chillhop.com/serve.php/?mp3=1733',
+			color: ['#B64E65', '#393B61'],
+			id: uuidv4(),
+			active: false,
+		},
+		{
+			name: 'Fade',
+			cover:
+				'https://chillhop.com/wp-content/uploads/2020/07/04d5dd66c33d8fc9137fd7b47f3b3c3a8e571761-1024x1024.jpg',
+			artist: 'Knowmadic',
+			audio: 'https://mp3.chillhop.com/serve.php/?mp3=1733',
+			color: ['#B64E65', '#393B61'],
+			id: uuidv4(),
+			active: false,
+		},
 		//ADD MORE HERE
 	]
 }
