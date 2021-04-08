@@ -7,17 +7,31 @@
 h1,
 h2,
 h3 {
-	color: rgb(54, 54, 54);
+	color: #fff;
 }
 
 body {
+	color: #fff;
 	font-family: 'Lato', sans-serif;
+	background-image: url('./wet-leaves.jpg');
+	background-size: cover;
+	// background-repeat: no-repeat;
+	background-color: rgba(255, 255, 255, 0.75);
+	background-position: center;
 }
 
 h3,
 h4 {
 	font-weight: 400;
 	color: rgb(100, 100, 100);
+}
+
+.App {
+	transition: all 0.5s ease;
+}
+
+.library-active {
+	margin-left: 30%;
 }
 
 @import './song';

@@ -11,8 +11,46 @@
 	}
 	h2 {
 		padding: 3rem 1rem 1rem 1rem;
+		color: rgb(240, 240, 240);
 	}
 	h3 {
 		font-size: 1rem;
+		color: rgb(240, 240, 240);
+	}
+}
+
+.spin-around {
+	img {
+		margin-top: 1rem;
+		width: 20%;
+		border-radius: 50%;
+		-webkit-animation: spin 30s linear infinite;
+		-moz-animation: spin 30s linear infinite;
+		animation: spin 30s linear infinite;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.song-container {
+		img {
+			width: 60%;
+		}
+	}
+}
+
+@-moz-keyframes spin {
+	100% {
+		-moz-transform: rotate(360deg);
+	}
+}
+@-webkit-keyframes spin {
+	100% {
+		-webkit-transform: rotate(360deg);
+	}
+}
+@keyframes spin {
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
 	}
 }
