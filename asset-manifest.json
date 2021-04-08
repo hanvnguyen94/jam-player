@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jam-player/static/css/main.04026e74.chunk.css",
+    "main.js": "/jam-player/static/js/main.64a86c33.chunk.js",
+    "main.js.map": "/jam-player/static/js/main.64a86c33.chunk.js.map",
+    "runtime-main.js": "/jam-player/static/js/runtime-main.3bff47aa.js",
+    "runtime-main.js.map": "/jam-player/static/js/runtime-main.3bff47aa.js.map",
+    "static/js/2.0a51b728.chunk.js": "/jam-player/static/js/2.0a51b728.chunk.js",
+    "static/js/2.0a51b728.chunk.js.map": "/jam-player/static/js/2.0a51b728.chunk.js.map",
+    "static/js/3.9067e55c.chunk.js": "/jam-player/static/js/3.9067e55c.chunk.js",
+    "static/js/3.9067e55c.chunk.js.map": "/jam-player/static/js/3.9067e55c.chunk.js.map",
+    "index.html": "/jam-player/index.html",
+    "static/css/main.04026e74.chunk.css.map": "/jam-player/static/css/main.04026e74.chunk.css.map",
+    "static/js/2.0a51b728.chunk.js.LICENSE.txt": "/jam-player/static/js/2.0a51b728.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/jam-player/static/media/wet-leaves.15782cc9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bff47aa.js",
+    "static/js/2.0a51b728.chunk.js",
+    "static/css/main.04026e74.chunk.css",
+    "static/js/main.64a86c33.chunk.js"
+  ]
+}
